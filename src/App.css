@@ -1,0 +1,63 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  
+}
+
+
+
+body {
+  background-color: #242424;
+  color: white;
+}
+
+
+.container {
+  width: 1200px;
+  ;
+  display: grid;
+  place-content: center;
+;
+}
+
+.sort {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  margin-bottom: 2rem;
+  justify-content: center ;
+}
+
+button {
+  background-color: #2b313f;
+  color: white;
+  border: none;
+  padding: 0.8rem 1rem;
+  border-radius: 0.5rem;
+  cursor: pointer;
+}
+
+
+table {
+  width: 600px;
+  border-collapse: collapse;
+  border-spacing: 0;
+  border: 1px solid #2b313f;
+  text-align: left;
+}
+
+th, td {
+  padding: 15px;
+}
+
+thead   {
+  background-color: #2b313f;
+  color: white;
+  border-bottom: 3px solid ;
+}
+
+ /* #2b313f */
+
+ /* #1a1f2b */
+
